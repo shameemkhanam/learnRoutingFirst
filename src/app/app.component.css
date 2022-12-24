@@ -1,0 +1,16 @@
+*{
+  padding: 5px;
+}
+
+.navbar{
+  display: flex;
+  align-items: center;
+  width: 900px;
+  height: 50px;
+  /* border: 1px solid red; */
+  background-color: bisque;
+  padding: 5px;
+}
+.navitems{
+  margin-right: 10px;
+}
